@@ -7,7 +7,7 @@ st.set_page_config(
     page_icon="👋"
 )
 
-st.write("Hello world!")
+st.write("HELLOOOOOOOOOOOOOOOOOOOOOOOOOO")
 st.markdown("This is _italics_ and this is **bold**")
 st.title("This is my first title")
 st.header("This is a header :)")
